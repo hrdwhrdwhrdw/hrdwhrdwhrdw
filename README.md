@@ -60,3 +60,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrdwhrdwhrdw&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrdwhrdwhrdw&theme=github_dark)
 
+<img height="33.9px" src="./created-and.svg">
+<img height="33.9px" src="./designed-by.svg">
+<img height="33.9px" src="./albert-gilmitdinov.svg">
