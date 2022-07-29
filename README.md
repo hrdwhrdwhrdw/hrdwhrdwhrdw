@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=35&color=0444F7&background=733FFF00&center=true&vCenter=true&lines=Hi+there%2C+I'm+Albert." alt="Typing SVG" /></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <!--
 **hrdwhrdwhrdw/hrdwhrdwhrdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
