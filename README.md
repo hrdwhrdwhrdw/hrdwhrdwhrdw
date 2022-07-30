@@ -10,7 +10,7 @@
 ```
 
 <h1>🙎‍♂️ Something about me: </h1>
-<h4> <i>Hi! My name is Albert. I'm beginner front-end developer. I have been studying programming for 9 months. I draw information from various sources: tutorials, blogs, video tutorials, conferences, and, of course, white papers.I decided to go into programming professionally to design and maintain complex systems, and I consider web development to be a promising direction to start in this area. I am attracted by the opportunity to apply rational thinking in my work and at the same time see a concrete result.</i></h4>
+<h4> <i>Hi! My name is Albert. I'm beginner front-end developer. I have been studying programming for 1 year. I draw information from various sources: tutorials, blogs, video tutorials, conferences, and, of course, white papers.I decided to go into programming professionally to design and maintain complex systems, and I consider web development to be a promising direction to start in this area. I am attracted by the opportunity to apply rational thinking in my work and at the same time see a concrete result.</i></h4>
 
 <ul>
   <li> 💻 𝕀'𝕞 𝕠𝕡𝕖𝕟 𝕥𝕠 𝕟𝕖𝕨 𝕛𝕠𝕓 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕚𝕖𝕤 </li>
