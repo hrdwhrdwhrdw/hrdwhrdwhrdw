@@ -47,6 +47,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"></code>
 
   <h1>⚒ And thers:</h1>
+  
+  <div>
   <img src="./ajax-promise.svg">
   <img src="./axios.svg">
   <img src="./flexbox-grid.svg">
@@ -55,8 +57,6 @@
   <img src="./vscode.svg">
   <img src="./material-ui.svg">
   <img src="./react-router.svg">
-  <div>
-  
   </div>
 
 <h1> ⌨️Activity: </h1>
